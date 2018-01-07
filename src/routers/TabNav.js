@@ -1,7 +1,7 @@
-import Hot from '../screens/Hot';
-import Top from '../screens/Top';
-import PlayList from '../screens/PlayList';
-import Home from '../screens/Home';
+import Hot from '../components/Hot';
+import Top from '../components/Top';
+import PlayList from '../components/PlayList';
+import Home from '../components/Home';
 import {
   TabNavigator,
   TabBarBottom

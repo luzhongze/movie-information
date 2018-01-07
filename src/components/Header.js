@@ -6,7 +6,7 @@ import {
   Text,
   TouchableOpacity
 } from 'react-native';
-import Logo from '../../images/logo.png';
+import {Logo} from '../../File';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 
 export const HeaderLeft = props => (

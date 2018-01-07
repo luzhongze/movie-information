@@ -12,7 +12,7 @@ import Icon from 'react-native-vector-icons/MaterialIcons';
 import {
   HeaderRight,
   HeaderLeft
-} from '../screens/Header';
+} from './Header';
 
 export default class Hot extends React.Component {
   static navigationOptions = {

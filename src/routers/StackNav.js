@@ -4,7 +4,7 @@ import { StackNavigator } from 'react-navigation';
 import {
   HeaderRight,
   HeaderLeft
-} from '../screens/Header';
+} from '../components/Header';
 import TabNav from './TabNav';
 
 const StackNav = StackNavigator({
